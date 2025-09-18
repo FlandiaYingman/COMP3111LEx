@@ -6,5 +6,9 @@ Please use a proper Java coding convention: use PascalCase for class names, came
 
 Otherwise, this will be the worst _Software Engineering_ practice that I've ever seen.
 
+BTW, how on earth does one want to track the built `*.class` files in Git? :) 
+
+![img.png](img.png)
+
 Best,  
 Harry
